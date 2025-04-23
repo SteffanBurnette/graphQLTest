@@ -1,7 +1,7 @@
 import { GraphQLSchema, GraphQLObjectType, GraphQLString } from 'graphql';
 
 /**
- * Construct a GraphQL schema and define the necessary resolvers.
+ * Construct a GraphQL schema and define the necessary resolvers..
  *
  * type Query {
  *   hello: String
